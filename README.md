@@ -1,4 +1,17 @@
-# Hey, I am Muhammad Bilal
+## Hi 👋, I'm Bilal
+
+<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="ahmed_guedmioui" height="14" width="21"/>  Android developer sharing about my journey and learnings in Android.<br><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/> 3 Year Experience in Android App Development, Expext in Android Ecosystem , Jetpack Compose, Kotlin,Ktor and More,⚡<br>
+<img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Runwell](https://github.com/codewithbilalahmad/Runwell)<br>
+<img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="ahmed_guedmioui" height="18" width="17"/>  Currently working on cool android app projects 🔥<br>
+<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="ahmed_guedmioui" height="13" width="18"/> My email: **mbilal10388@gmail.com**<br>
+
+
+- **Programming Languages:** Kotlin - Java.
+- **Android:** Android Framework - Technical documentation - Android Studio Profiler - Error Handling - Retrofit - Ktor - Coroutines - RxJava.
+- **Architecture:** Clean Architecture - Multi-Module - MVI - MVVM - MVP - Dependency Injection.
+- **Testing:** Unit testing - UI tests - Test Driven Development.
+- **Database:**PostgreSql - SQLite - RoomDB - MongoDB.
+- **Version Control:** Git, Github
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-b8bba4286) 
 
