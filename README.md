@@ -1,15 +1,11 @@
-## Hi 👋, I'm Muhammad Bilal
+# Software Engineer Android
+
+![Purple White Modern SEO Analyst LinkedIn Banner](https://github.com/user-attachments/assets/97caa905-c19d-49ee-9bd0-e1ddf2ae3ae7)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-b8bba4286) 
 
 
-<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="ahmed_guedmioui" height="14" width="21"/>  Android developer sharing about my journey and learnings in Android.<br><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/>  Making videos about Android development on [YouTubes](https://www.youtube.com/@ahmed_guedmioui) with 7k subscribers.<br>
-<img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)<br>
-<img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="ahmed_guedmioui" height="18" width="17"/>  Currently learning more advanced concepts about KMP (Kotlin Multiplatform).<br>
-<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="ahmed_guedmioui" height="13" width="18"/> My email: **hamadagdm@gmail.com**<br>
-<img align="center" src="https://attic.sh/quc9mnxuyhk24ljoaw2qfmm2haq7" alt="ahmed_guedmioui" height="20" width="19"/> My Portfolio: [Portfolio](https://ahmedgire01.wixsite.com/ahmed-guedmioui-1)
+![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-- **Programming Languages:** Kotlin - Java.
-- **Android:** Android Framework - Technical documentation - Android Studio Profiler - Error Handling - Retrofit - Koin - Ktor - Coroutines - RxJava.
-- **Architecture:** Clean Architecture - Multi-Module - MVI - MVVM - MVP - Dependency Injection.
-- **Testing:** Unit testing - UI tests - Test Driven Development.
-- **Database:** PostgreSql - SQLite - RoomDB - MongoDB.
-- **Version Control:** Git, Github
+
