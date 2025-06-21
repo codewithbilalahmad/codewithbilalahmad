@@ -10,7 +10,7 @@
 - **Android:** Android Framework - Technical documentation - Android Studio Profiler - Error Handling - Retrofit - Ktor - Coroutines - RxJava.
 - **Architecture:** Clean Architecture - Multi-Module - MVI - MVVM - MVP - Dependency Injection.
 - **Testing:** Unit testing - UI tests - Test Driven Development.
-- **Database:**PostgreSql - SQLite - RoomDB - MongoDB.
+- **Database:** PostgreSql - SQLite - RoomDB - MongoDB.
 - **Version Control:** Git, Github
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-b8bba4286) 
