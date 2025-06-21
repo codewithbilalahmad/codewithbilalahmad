@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Bilal
 
-🏃🏼‍♂️ Android developer sharing about my journey and learnings in Android.<br>🧰 3 Year Experience in Android App Development, Expext in Android Ecosystem , Jetpack Compose, Kotlin,Ktor and More,⚡<br>
-<img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Runwell](https://github.com/codewithbilalahmad/Runwell)<br>
+<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="ahmed_guedmioui" height="14" width="21"/> Android developer sharing about my journey and learnings in Android.<br>🧰 3 Year Experience in Android App Development, Expext in Android Ecosystem , Jetpack Compose, Kotlin,Ktor and More,⚡<br>
+🏃🏼‍♂️ Check out my latest multi-module project [Runwell](https://github.com/codewithbilalahmad/Runwell)<br>
 <img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="ahmed_guedmioui" height="18" width="17"/>  Currently working on cool android app projects 🔥<br>
 <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="ahmed_guedmioui" height="13" width="18"/> My email: **mbilal10388@gmail.com**<br>
 
