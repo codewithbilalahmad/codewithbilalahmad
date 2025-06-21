@@ -1,7 +1,4 @@
-# Software Engineer Android
-
-![Purple White Modern SEO Analyst LinkedIn Banner](https://github.com/user-attachments/assets/97caa905-c19d-49ee-9bd0-e1ddf2ae3ae7)
-
+# Hey, I am Muhammad Bilal
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-b8bba4286) 
 
