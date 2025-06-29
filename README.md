@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Bilal
 
 <img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/> Android developer sharing about my journey and learnings in Android.<br>🧰 3 Year Experience in Android App Development, Expext in Android Ecosystem , Jetpack Compose, Kotlin,Ktor and More,⚡<br>
-<img align="center" src="https://www.svgrepo.com/show/502425/entertainment.svg" alt="muhammad_bilal" height="13" width="18"/> Check out my latest andriod project [ReellTime](https://github.com/codewithbilalahmad/ReelTime)<br>
+<img align="center" src="https://www.svgrepo.com/show/502425/entertainment.svg" alt="muhammad_bilal" height="13" width="18"/> Check out my latest andriod project [ReelTime](https://github.com/codewithbilalahmad/ReelTime)<br>
 <img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="muhammad_bilal" height="18" width="17"/>  Currently working on cool android app projects 🔥<br>
 <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="muhammad_bilal" height="13" width="18"/> My email: **mbilal10388@gmail.com**<br>
 
