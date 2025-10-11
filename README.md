@@ -1,16 +1,16 @@
-## Hi 👋, I'm Bilal
+👋 Hi, I'm Bilal
+<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/> I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose**, **Kotlin**, and **Ktor**.
 
-<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/> 
-I'm an **Android Developer** sharing my journey and learnings in Android development.<br>
-🧰 **2+ years of experience** in Android app development — expert in the Android ecosystem, **Jetpack Compose**, **Kotlin**, **Ktor**, and more ⚡<br>
+🧰 With 2+ years of experience in Android app development, I specialize in crafting clean architectures, optimizing performance, and creating intuitive UI/UX experiences ⚡
 
-Check out my latest Android project 👉 [**ZigZag**](https://github.com/codewithbilalahmad/ZigZag)<br>
+📱 Check out my latest Android project 👉 ZigZag
 
-<img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="muhammad_bilal" height="18" width="17"/> 
-Currently working on cool Android app projects 🔥<br>
+A smooth, high-performance app built entirely with Jetpack Compose — achieving 60 FPS animations and clean architecture design.
 
-<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="muhammad_bilal" height="13" width="18"/> 
-**Email:** [mbilal10388@gmail.com](mailto:mbilal10388@gmail.com)<br>
+<img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="muhammad_bilal" height="18" width="17"/> Currently working on cool Android app projects 🔥
+
+📧 <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="muhammad_bilal" height="13" width="18"/>
+Email: mbilal10388@gmail.com
 
 ---
 
