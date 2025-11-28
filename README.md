@@ -1,11 +1,9 @@
-👋 Hi, I'm Bilal
-<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/> I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose**, **Kotlin**, and **Ktor**.
+# 👋 Hi, I'm Bilal
+<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/>  I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose**, **Kotlin**, and **Ktor**.
 
-🧰 With 2+ years of experience in Android app development, I specialize in crafting clean architectures, optimizing performance, and creating intuitive UI/UX experiences ⚡
+🧰 I’m an Android Developer with 3+ years of experience building modern, scalable, and high-performance apps using Kotlin, Jetpack Compose, Ktor and lot more.
 
-📱 Check out my latest Android project 👉 ZigZag
-
-A smooth, high-performance app built entirely with Jetpack Compose — achieving 60 FPS animations and clean architecture design.
+I love crafting clean architectures, intuitive UI/UX, and smooth user experiences. Currently working on exciting Android projects and building products that make a real impact. 🚀
 
 <img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="muhammad_bilal" height="18" width="17"/> Currently working on cool Android app projects 🔥
 
