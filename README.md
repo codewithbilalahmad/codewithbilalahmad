@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bilal
-<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/>  I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose**, **Kotlin**, and **Ktor**.
+<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/>  I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose** and **Kotlin**.
 
 🧰 I’m an Android Developer with 3+ years of experience building modern, scalable, and high-performance apps using Kotlin, Jetpack Compose, Ktor and lot more.
 
