@@ -5,6 +5,8 @@
 
 I love crafting clean architectures, intuitive UI/UX, and smooth user experiences. Currently working on exciting Android projects and building products that make a real impact. 🚀
 
+Download my Funrec (Background Audio Recorder) from Play Store 🎉✨ https://play.google.com/store/apps/details?id=com.muhammad.funRec
+
 <img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="muhammad_bilal" height="18" width="17"/> Currently working on cool Android app projects 🔥
 
 📧 <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="muhammad_bilal" height="13" width="18"/>
