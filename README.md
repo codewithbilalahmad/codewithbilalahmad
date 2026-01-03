@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Bilal
 <img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/>  I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose** and **Kotlin**.
 
-🧰 I’m an Android Developer with 3+ years of experience building modern, scalable, and high-performance apps using Kotlin, Jetpack Compose, Ktor and lot more.
-
 I love crafting clean architectures, intuitive UI/UX, and smooth user experiences. Currently working on exciting Android projects and building products that make a real impact. 🚀
 
 Download my Funrec (Background Audio Recorder) from Play Store 🎉✨ https://play.google.com/store/apps/details?id=com.muhammad.funRec
