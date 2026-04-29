@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Bilal
-<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="muhammad_bilal" height="14" width="21"/>  I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose** and **Kotlin**.
+I'm an **Android Developer** passionate about building high-quality, modern, and performant Android apps using **Jetpack Compose** and **Kotlin**.
 
 I love crafting clean architectures, intuitive UI/UX, and smooth user experiences. Currently working on exciting Android projects and building products that make a real impact. 🚀
 
-Download my Funrec (Background Audio Recorder) from Play Store 🎉✨ https://play.google.com/store/apps/details?id=com.muhammad.funRec
+✨Download Funrec (Background Audio Recorder) from Play Store ❤
+https://play.google.com/store/apps/details?id=com.muhammad.funRec
 
-<img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="muhammad_bilal" height="18" width="17"/> Currently working on cool Android app projects 🔥
+✨Download Flipbook (2D Animation Creator) from Play Store ❤
+https://play.google.com/store/apps/details?id=com.flipbook.frame.draw.animation2d.maker
 
-📧 <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="muhammad_bilal" height="13" width="18"/>
+Currently working on cool Android app projects 🔥
+
+📧
 Email: mbilal10388@gmail.com
 
 ---
