@@ -20,7 +20,7 @@ Email: mbilal10388@gmail.com
 
 - **Programming Languages:** Kotlin · Java  
 - **Android:** Android Framework · Jetpack Compose · Retrofit · Ktor · Coroutines · RxJava · Android Studio Profiler · Error Handling  
-- **Architecture:** Clean Architecture · Multi-Module · MVI · MVVM · MVP · Dependency Injection  
+- **Architecture:** Clean Architecture · Multi-Module · MVI · MVVM · MVP · Dependency Injection . Perfomance Optimization
 - **Testing:** Unit Testing · UI Testing · Test-Driven Development (TDD)  
 - **Database:** PostgreSQL · SQLite · RoomDB · MongoDB  
 - **Version Control:** Git · GitHub  
